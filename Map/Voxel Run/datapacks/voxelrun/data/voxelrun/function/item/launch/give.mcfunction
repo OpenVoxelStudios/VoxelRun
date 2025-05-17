@@ -1,0 +1,2 @@
+clear @s *[custom_data={launch:true}]
+$item replace entity @s hotbar.3 with minecraft:ender_eye[item_model="minecraft:feather",custom_name=[{"text":"Launch","color":"aqua","italic":false}],custom_data={launch:true},use_cooldown={seconds:5}] $(amount)

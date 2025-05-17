@@ -1,0 +1,1 @@
+data merge entity @s {item:{components:{"minecraft:custom_model_data":{strings:["platform_2"]}}}}

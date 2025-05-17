@@ -1,0 +1,2 @@
+clear @s *[custom_data={ball:true}]
+$item replace entity @s hotbar.5 with minecraft:snowball[item_model="minecraft:fire_charge",custom_name=[{"text":"Fireball","color":"red","italic":false}],custom_data={ball:true}] $(amount)

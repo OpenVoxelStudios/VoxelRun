@@ -1,0 +1,1 @@
+execute as @a[team=alive,tag=!dev] run attribute @s minecraft:jump_strength base set 0.4199999

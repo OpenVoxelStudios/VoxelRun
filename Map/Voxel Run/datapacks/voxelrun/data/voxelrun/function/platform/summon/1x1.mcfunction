@@ -1,0 +1,1 @@
+function voxelrun:platform/summon {size:1}

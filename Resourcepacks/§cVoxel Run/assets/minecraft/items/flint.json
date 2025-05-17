@@ -1,0 +1,15 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/flint"
+    },
+    "cases": [
+      { "when": "platform_0", "model": { "type": "model", "model": "voxelrun:item/platform_0" } },
+      { "when": "platform_1", "model": { "type": "model", "model": "voxelrun:item/platform_1" } },
+      { "when": "platform_2", "model": { "type": "model", "model": "voxelrun:item/platform_2" } }
+    ]
+  }
+}

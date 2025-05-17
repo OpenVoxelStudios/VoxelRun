@@ -1,0 +1,1 @@
+execute as @a[team=alive] run function voxelrun:item/ball/give {amount:3}

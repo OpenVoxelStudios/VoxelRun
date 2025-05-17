@@ -1,0 +1,19 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"logo": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/logo/base.json",
+				"assets/animated_java/items/blueprint/logo/knob.json",
+				"assets/animated_java/items/blueprint/logo/lid.json",
+				"assets/animated_java/items/empty.json",
+				"assets/animated_java/models/blueprint/logo/base.json",
+				"assets/animated_java/models/blueprint/logo/knob.json",
+				"assets/animated_java/models/blueprint/logo/lid.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/logo/normal.png"
+			]
+		}
+	}
+}

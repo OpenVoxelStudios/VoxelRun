@@ -1,0 +1,10 @@
+{
+    "voxelrun": {
+        "sounds": [
+            {
+                "name": "voxelrun:music/voxelrun",
+                "preload": "false"
+            }
+        ]
+    }
+}

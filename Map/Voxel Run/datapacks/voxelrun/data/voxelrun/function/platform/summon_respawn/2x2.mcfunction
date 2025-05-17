@@ -1,0 +1,1 @@
+function voxelrun:platform/summon_respawn {size:2}

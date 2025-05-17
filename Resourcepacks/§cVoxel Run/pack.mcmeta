@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 55,
+		"description": [
+			{ "text": "Voxel Run", "color": "aqua", "bold": true },
+			{ "text": " by ", "color": "white" },
+			{ "text": "OpenVoxel Studios", "color": "gold" }
+		]
+	}
+}
